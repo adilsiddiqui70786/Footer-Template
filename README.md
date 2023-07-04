@@ -2,9 +2,9 @@
 
 <br> <br>
 ## Key Features :
-Responsive design for optimal user experience on different devices.
-Easy integration
-Customization of social media icons
+- Responsive design for optimal user experience on different devices.
+- Easy integration
+- Customization of social media icons.
 
 <br>
 
