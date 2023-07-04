@@ -1,9 +1,8 @@
 # Project 2 - Footer Website (Frontend HTML & CSS)
 
-<br>
-
+<br> <br>
 ## Key Features :
-Responsive design for optimal user experience on different devices
+Responsive design for optimal user experience on different devices.
 Easy integration
 Customization of social media icons
 
@@ -20,7 +19,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 <br>
 
 ## Further Development :
-This project can be further expanded by additional features into the footer
+This project can be further expanded by additional features into the footer.
 
 <br> 
 
